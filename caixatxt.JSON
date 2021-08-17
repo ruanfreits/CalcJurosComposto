@@ -1,0 +1,34 @@
+{
+"Empresas":[{
+    "nome-fantasia":"Smartfit",
+    "Cadastro Nacinal de Pessoa Jurídica:cnpj":"82.530.661/0001-93",
+    "Patrimônio Líquido":1000000.00,
+    "CapitalSocial":300000.00,
+    "Ramo/Area de atuação":"Saúde,Laser",
+    "Carro-Chefe":"Plano Básico",
+    "Preço/Mensalidade:Carro-Chefe": 80.00,
+    "Quantidade de Franquia":100,
+    "Franqueada":true,
+    "Multinacional":false,
+    "Paises em que atua":null
+
+    },
+    {"nome-fantasia":"Aggon",
+        "Cadastro Nacinal de Pessoa Jurídica:cnpj":"82.530.661/0001-93",
+        "Patrimônio Líquido":1200000.00,
+        "CapitalSocial":500000.00,
+        "Ramo/Area de atuação":"Saúde,Laser",
+        "Carro-Chefe":"Silver-Clear",
+        "Preço/Mensalidade:Carro-Chefe": 100.00,
+        "Quantidade de Franquia":100,
+        "Franqueada":true,
+        "Multinacional":true,
+        "Paises em que atua":[{"país":"Argentina"},
+            {"país":"Brasil"},
+            {"país":"Paraguay"},
+            {"país":"Uruguai"}]
+
+    }
+]
+
+}
